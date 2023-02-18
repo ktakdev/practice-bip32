@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ktakdev/practice-bip32/issues"
   },
-  "homepage": "https://github.com/ktakdev/practice-bip32#readme"
+  "homepage": "https://github.com/ktakdev/practice-bip32#readme",
+  "dependencies": {
+    "bip39": "^3.0.4"
+  }
 }
